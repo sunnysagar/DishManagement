@@ -4,6 +4,7 @@
 This application is designed to manage and display dish information, including creating a database, API, and a front-end dashboard. The dashboard allows toggling the published status of dishes and shows real-time updates.
 
 ## Backend Explanation
+- Backend is developed by using JAVA, SPRING BOOT, MYSQL(DATABASE)
 
 ### Spring Boot Application
 

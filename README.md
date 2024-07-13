@@ -22,3 +22,11 @@ This application is designed to manage and display dish information, including c
 
 - **Purpose**: Allows frontend (running on a different port) to communicate with the backend.
 - **Implementation**: `WebConfig` class sets CORS policy to allow requests from `http://localhost:3000`.
+
+
+## Summary
+
+- **Backend**: Utilizes Spring Boot to create a robust API and WebSocket server, enabling CRUD operations and real-time updates.
+- **Frontend**: Uses React for a responsive UI, Axios for API requests, and WebSockets for real-time data synchronization.
+
+This combination ensures a seamless and interactive user experience, displaying up-to-date dish information dynamically.

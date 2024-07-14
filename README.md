@@ -3,6 +3,8 @@
 
 This application is designed to manage and display dish information, including creating a database, API, and a front-end dashboard. The dashboard allows toggling the published status of dishes and shows real-time updates.
 
+UI [Link](https://github.com/sunnysagar/DishManagement/tree/main)
+
 ## Backend Explanation
 - Backend is developed by using JAVA, SPRING BOOT, MYSQL(DATABASE)
 
